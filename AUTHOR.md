@@ -1,6 +1,6 @@
 ![jeanmachuca](https://qcobjects.dev/doc/img/jeanmachuca.png)
 
-# About the author:
+# Acerca del autor:
 
   - Jean Machuca is the author of QCObjects and he has over 20 years of experience doing software
 in different programming languages for banking, health, retail and advertising industries.
