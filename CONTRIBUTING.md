@@ -1,89 +1,90 @@
-# Contributing to QCObjects
+# Contribuir a QCObjects
 
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+:+1::tada: En primer lugar, ¡gracias por tomarse el tiempo para contribuir! :tada::+1:
 
-The following is a set of guidelines for contributing to QCObjects, which is hosted in the [Quickcorp Organization](https://github.com/quickcorp) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+El siguiente es un conjunto de pautas para contribuir a QCObjects, que está alojado en la [Organización Quickcorp] (https://github.com/quickcorp) en GitHub. En su mayoría son pautas, no reglas. Utiliza tu mejor criterio y no dudes en proponer cambios a este documento en una solicitud de extracción.
 
-Any contribution code, comment, issue and or request must be written in English.
+Cualquier código de contribución, comentario, problema o solicitud debe estar escrito en inglés.
 
-## Table Of Contents
+## Tabla de contenido
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Contributing to QCObjects](#contributing-to-qcobjects)
-	- [Table Of Contents](#table-of-contents)
-	- [Code of Conduct](#code-of-conduct)
-	- [Contributing Issues Guidelines](#contributing-issues-guidelines)
-		- [Related Issues](#related-issues)
-		- [Creating Issues](#creating-issues)
-			- [Feature Request](#feature-request)
-			- [Bug Report](#bug-report)
-			- [Non related issue](#non-related-issue)
-- [Fork](#fork)
-- [Make Your Own QCObjects based tool or framework](#make-your-own-qcobjects-based-tool-or-framework)
-- [Become a Sponsor](#become-a-sponsor)
-- [Donate](#donate)
-- [Become a Patreon](#become-a-patreon)
+- [Contribución a QCObjects](#contribución-a-qcobjects)
+	- [Tabla de contenido](#tabla-de-contenido)
+	- [Código de conducta](#código-de-conducta)
+	- [Directrices sobre cuestiones relacionadas con las contribuciones](#directrices-sobre-cuestiones-relacionadas-con-las-contribuciones)
+		- [Problemas relacionados](#problemas-relacionados)
+		- [Creación de problemas](#creación-de-problemas)
+			- [Solicitud de función](#solicitud-de-función)
+			- [Informe de error](#informe-de-error)
+			- [Problema no relacionado](#problema-no-relacionado)
+- [Fork](#Fork)
+- [Cree su propio framework o herramienta basada en QCObjects](#Cree-su-propio-Framework-o-herramienta)
+- [Conviértase en patrocinador](#conviértase-en-patrocinador)
+- [Donar](#donar)
+- [Conviértete en un Patreon](#Become-a-patreon)
 
 <!-- /TOC -->
 
-## Code of Conduct
+## Código de Conducta
 
-This project and everyone participating in it is governed by the [QCObjects Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [info@quickcorp.cl](mailto:info@quickcorp.cl).
-
-
-## Contributing Issues Guidelines
-
-### Related Issues
-
-Please, before to create a new issue, read all the old issues [here](https://github.com/QuickCorp/QCObjects/issues)
-
-### Creating Issues
+Este proyecto y todos los que participan en él se rigen por el [Código de conducta de QCObjects] (CODE_OF_CONDUCT.md). Al participar, se espera que respete este código. Informe el comportamiento inaceptable a [info@quickcorp.cl] (mailto: info@quickcorp.cl).
 
 
+## Pautas sobre cuestiones que contribuyen
 
-#### Feature Request
+### Problemas relacionados
 
-Please follow the next link and create a [Feature Request Issue](https://github.com/QuickCorp/QCObjects/issues/new?assignees=&labels=&template=feature_request.md&title=)
+Por favor, antes de crear un nuevo problema, lee todos los problemas anteriores [aquí] (https://github.com/QuickCorp/QCObjects/issues)
+
+### Crear problemas
 
 
-#### Bug Report
 
-If you've found a bug, please report it following the template for a [Bug Report Issue](https://github.com/QuickCorp/QCObjects/issues/new?assignees=&labels=&template=bug_report.md&title=)
+#### Solicitud de función
 
-#### Non related issue
+Sigue el siguiente enlace y crea un [Problema de solicitud de función] (https://github.com/QuickCorp/QCObjects/issues/new?assignees=&labels=&template=feature_request.md&title=)
 
-If you want to contribute with an non-listed issue you can do it [here](https://github.com/QuickCorp/QCObjects/issues/new?assignees=&labels=&template=custom.md&title=)
+
+#### Reporte de bug
+
+Si has encontrado un error, infórmalo siguiendo la plantilla para un [Problema de informe de error] (https://github.com/QuickCorp/QCObjects/issues/new?assignees=&labels=&template=bug_report.md&title=)
+
+#### Problema no figurado
+
+Si deseas contribuir con un problema que no figura en la lista, puedes hacerlo [aquí] (https://github.com/QuickCorp/QCObjects/issues/new?assignees=&labels=&template=custom.md&title=)
 
 # Fork
 --------------
 
-Please fork this project and make a link to this project into your README.md file. Read the LICENSE.txt file before you use this code.
+Haz frok con este proyecto y crea un enlace a este proyecto en tu archivo README.md. Lee el archivo LICENSE.txt antes de usar este código.
 
-# Make Your Own QCObjects based tool or framework
+# Cree su propio Framework o herramienta basada en QCObjects
 --------------
 
-You can make YOUR OWN TOOL based on QCObjects. For that you only need to follow the next guidelines:
+Puedes hacer SU PROPIA HERRAMIENTA basada en QCObjects. Para eso solo necesitas seguir las siguientes pautas:
 
-1. To make your tool recognized and listed in the file toolslist.md just send an email to info@quickcorp.cl indicating the link of the GitHub project and a short description of the purpose of your tool.
-2. If you are making a QCObjects App Template and you want to be listed in apptemplatelist.md, please send an email to info@quickcorp.cl indicating the link of the package in npmjs.com. Your App Template will be accepted only if it is using QCObjects as the main framework to render the app and the license of your project is under LGPL-3.
-
-
+1. Para que tu herramienta sea reconocida y listada en el archivo toolslist.md simplemente envía un correo electrónico a info@quickcorp.cl indicando el enlace del proyecto GitHub y una breve descripción del propósito de tu herramienta.
+2. Si estás creando una plantilla de aplicación QCObjects y deseas aparecer en apptemplatelist.md, envía un correo electrónico a info@quickcorp.cl indicando el enlace del paquete en npmjs.com. Tu plantilla de aplicación será aceptada solo si utiliza QCObjects como marco principal para renderizar la aplicación y la licencia de su proyecto está bajo LGPL-3.
 
 
-# Become a Sponsor
+
+
+# Conviértete en un patrocinador
 ------------------
-If you want to become a sponsor for this wonderful project you can do it [here](https://sponsorsignup.qcobjects.dev/)
+Si quieres convertirte en patrocinador de este maravilloso proyecto puedes hacerlo[Aqui](https://sponsorsignup.qcobjects.dev/)
 
 
-# Donate
+# Dona
 --------------
 
-If you like this code please [DONATE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UUTDBUQHCS4PU&source=url)!
+Si te gusta este código, [DONATE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UUTDBUQHCS4PU&source=url).
 
  [![paypal](https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UUTDBUQHCS4PU&source=url)
 
-# Become a Patreon
+# Conviertete en Patreon
 --------------
 
-[![Become a Patreon ](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/join/qcobjects?)
+[![Conviertete en  Patreon ](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/join/qcobjects?)
+
