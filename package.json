@@ -1,5 +1,5 @@
 {
-  "name": "qcobjects-web-dev",
+  "name": "qcobjects-web-dev-es",
   "version": "0.0.1",
   "description": "QCObjects is an Open-source framework that empowers full-stack developers to make micro-services and micro-frontends into an N-Tier architecture. This package is the official website qcobjects.dev",
   "main": "doc/init.js",
