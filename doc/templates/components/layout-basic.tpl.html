@@ -57,7 +57,9 @@
   </section>
   <section>
     <component shadowed=true name="blank" data-youtube_id="FVI_WChlvSo">
+      <routing path="^#(qcobjects|CODE_OF_CONDUCT|CONTRIBUTING|video_testimonials|author)$" name="blank" ></routing>
       <routing path="^#showcase$" name="blank"></routing>
+      <routing path="^#support$" name="blank"></routing>
       <routing path="^#$" name="shadowed-youtube-video"></routing>
       <routing path="^$" name="shadowed-youtube-video"></routing>
       <routing path="^/$" name="shadowed-youtube-video"></routing>
@@ -73,6 +75,7 @@
       <routing path="#video_testimonials" name="video_testimonials" ></routing>
       <routing path="#author" name="blank" ></routing>
       <routing path="#academy" name="blank" ></routing>
+      <routing path="^#support$" name="pages/support"></routing>
       <routing path="#showcase" name="app-showcase" ></routing>
     </component>
   </section>
@@ -103,6 +106,7 @@
       <routing path="#/en" name="../../../README" ></routing>
       <routing path="#/en-US" name="../../../README" ></routing>
       <routing path="^#showcase$" name="blank"></routing>
+      <routing path="^#support$" name="blank"></routing>
     </component>
   </section>
 </main>
